@@ -30,7 +30,8 @@ end
 
 def initial_round
   # code #initial_round here
-  
+  card_total = 0
+  2.times
 end
 
 def hit?
